@@ -15,3 +15,23 @@ The front end was a web application created with HTML, CSS and Javascript. We us
 This was one of our first experiences building an application of this scale, especially using proper software engineering techniques. Although we were all familiar with Java, HTML, CSS and Javascript, we had never combined them in this way. We also learned a lot about dependency tools such as Maven. We found out the importance and usefulness of frontend frameworks such as VueJS or ReactJS for handling highly interactive web applications which we wish we would have used. Additionally we learned Git best practices and how to handle situations such as merge conflicts.
 
 ## Screenshots
+### Start Page
+![Start Page](/screenshots/startOrder.png?raw=true)
+
+### Menu Page
+![Menu Page](/screenshots/MenuOrder.png?raw=true)
+
+### Menu Item Details
+![Menu Item Details](/screenshots/MenuItem.png?raw=true)
+
+### Menu Searching and Filtering
+![Menu Searching and Filtering](/screenshots/MenuFilter.png?raw=true)
+
+### Waiter View
+![Waiter View](/screenshots/orders3.png?raw=true)
+
+### Kitchen View
+![Kitchen View](/screenshots/Kitchen1.png?raw=true)
+
+### Manager Editing Menu
+![Manager Editing Menu](/screenshots/editMenu1.png?raw=true)
